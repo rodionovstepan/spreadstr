@@ -4,6 +4,6 @@
 
     public interface ISpreadstr
     {
-        Spreadsheet Generate<T>(IEnumerable<T> items, ISpreadstrConverter<T> converter);
+        Spreadsheet Generate<T>(IEnumerable<T> items, ISpreadstrConverter<T> converter, string title);
     }
 }

@@ -20,7 +20,7 @@
                             new TestItem("Vladimir", "Vladimirov")
                         };
 
-            var spreadsheet = spreadstr.Generate(items, converter);
+            var spreadsheet = spreadstr.Generate(items, converter, "Employees list");
 
             File.WriteAllBytes("result.xlsx", spreadsheet.Content);
         }
