@@ -7,8 +7,8 @@
     <ProjectGuid>{9F58141B-B616-454E-A674-0599DEBB7DA1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>spreadtr</RootNamespace>
-    <AssemblyName>spreadtr</AssemblyName>
+    <RootNamespace>spreadstr</RootNamespace>
+    <AssemblyName>spreadstr</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
